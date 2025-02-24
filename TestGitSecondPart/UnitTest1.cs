@@ -6,6 +6,7 @@ namespace TestGitSecondPart
         public void Setup()
         {
             Console.WriteLine("New line is added again");
+            Console.WriteLine("New author and email");
         }
 
         [Test]
