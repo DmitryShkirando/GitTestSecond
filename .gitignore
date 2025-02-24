@@ -1,0 +1,56 @@
+# Visual Studio code files
+.vscode/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ReSharper files
+_ReSharper*/
+
+# NuGet packages
+*.nupkg
+*.paket/paket.exe
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio 2019
+.vs/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.userprefs
+
+# Unity3D
+Library/
+Temp/
+Build/
+
+# Rider
+.idea/
+
+# Miscellaneous
+*.log
+*.unitypackage
