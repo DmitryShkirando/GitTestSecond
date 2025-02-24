@@ -5,6 +5,7 @@ namespace TestGitSecondPart
         [SetUp]
         public void Setup()
         {
+            Console.WriteLine("New line is added again");
         }
 
         [Test]
