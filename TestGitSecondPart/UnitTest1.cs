@@ -10,6 +10,7 @@ namespace TestGitSecondPart
             Console.WriteLine("3-rd line is added again 2");
             Console.WriteLine("3-rd line is added ag231ain 2");
             Console.WriteLine("dsd");
+            Console.WriteLine("This is third branch");
         }
 
         [Test]
